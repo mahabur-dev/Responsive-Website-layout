@@ -10,3 +10,13 @@
 
  # Replace `your-username/your-repo.git` with your actual GitHub repo URL.
 - You can remove or modify any steps based on your project setup.
+- Full CRUD operations for portfolio projects
+- Custom-designed frontend with modern UI (no Bootstrap)
+- Project listings with card-based interface
+- Project detail pages with descriptions and technology stack
+- Edit, delete, and view functionality for each project
+- "Add Project" capability for new entries
+- Responsive design for all devices
+- Admin dashboard for managing portfolio content
+- Authentication system for secure access
+- MySQL database integration for data persistence
